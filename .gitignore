@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# Databases
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+serviceAccountKey.json
+client_secret.json
